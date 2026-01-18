@@ -1,0 +1,57 @@
+[
+  {
+    "code": "WELCOME2024",
+    "reward_sct": 500,
+    "reward_cards": 1,
+    "uses_limit": 100,
+    "uses_count": 0,
+    "created_at": "2026-01-18T00:45:25.962138",
+    "expires_at": "2027-01-18T00:45:25.961862",
+    "min_rarity": null,
+    "active": true
+  },
+  {
+    "code": "WELCOME",
+    "reward_sct": 50,
+    "reward_cards": 1,
+    "uses_limit": 1000,
+    "uses_count": 0,
+    "created_at": "2026-01-18T09:48:38.179685",
+    "expires_at": "2027-01-18T09:48:38.179596",
+    "min_rarity": "COMMON",
+    "active": true
+  },
+  {
+    "code": "JOJO2024",
+    "reward_sct": 100,
+    "reward_cards": 2,
+    "uses_limit": 500,
+    "uses_count": 0,
+    "created_at": "2026-01-18T09:48:38.181316",
+    "expires_at": "2026-07-17T09:48:38.179634",
+    "min_rarity": "UNCOMMON",
+    "active": true
+  },
+  {
+    "code": "STARPLATINUM",
+    "reward_sct": 200,
+    "reward_cards": 3,
+    "uses_limit": 100,
+    "uses_count": 0,
+    "created_at": "2026-01-18T09:48:38.182745",
+    "expires_at": "2026-04-18T09:48:38.179645",
+    "min_rarity": "RARE",
+    "active": true
+  },
+  {
+    "code": "GOLDEXPERIENCE",
+    "reward_sct": 500,
+    "reward_cards": 5,
+    "uses_limit": 50,
+    "uses_count": 0,
+    "created_at": "2026-01-18T09:48:38.184131",
+    "expires_at": "2026-02-17T09:48:38.179658",
+    "min_rarity": "EPIC",
+    "active": true
+  }
+]

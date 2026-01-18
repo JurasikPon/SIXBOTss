@@ -1,0 +1,55 @@
+[
+  {
+    "id": "basic_pack",
+    "name": "⚪ Базовый пак",
+    "description": "3 случайные карты (обычные-редкие)",
+    "price": 100,
+    "cards_count": 3,
+    "rarity_weights": {
+      "COMMON": 60,
+      "UNCOMMON": 30,
+      "RARE": 10
+    }
+  },
+  {
+    "id": "premium_pack",
+    "name": "🔵 Премиум пак",
+    "description": "5 карт с шансом на эпические",
+    "price": 500,
+    "cards_count": 5,
+    "rarity_weights": {
+      "COMMON": 40,
+      "UNCOMMON": 35,
+      "RARE": 20,
+      "EPIC": 5
+    }
+  },
+  {
+    "id": "legendary_pack",
+    "name": "✨ Легендарный пак",
+    "description": "3 карты с шансом на легендарные",
+    "price": 1000,
+    "cards_count": 3,
+    "rarity_weights": {
+      "RARE": 50,
+      "EPIC": 30,
+      "LEGENDARY": 15,
+      "MYTHIC": 5
+    }
+  },
+  {
+    "id": "mega_pack",
+    "name": "💎 Мега пак",
+    "description": "10 карт всех редкостей",
+    "price": 2000,
+    "cards_count": 10,
+    "rarity_weights": {
+      "COMMON": 30,
+      "UNCOMMON": 25,
+      "RARE": 20,
+      "EPIC": 15,
+      "LEGENDARY": 7,
+      "MYTHIC": 3
+    }
+  }
+]

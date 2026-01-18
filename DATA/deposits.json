@@ -1,0 +1,146 @@
+{
+  "1": {
+    "user_id": 8411615826,
+    "amount": 200,
+    "start_date": "2026-01-18T14:53:42.159688",
+    "end_date": "2027-01-17T14:53:42.159715",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "2": {
+    "user_id": 5139730738,
+    "amount": 17,
+    "start_date": "2026-01-18T14:56:40.194027",
+    "end_date": "2027-01-17T14:56:40.194048",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "3": {
+    "user_id": 5139730738,
+    "amount": 40,
+    "start_date": "2026-01-18T15:03:46.782535",
+    "end_date": "2027-01-17T15:03:46.782568",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "4": {
+    "user_id": 5139730738,
+    "amount": 43,
+    "start_date": "2026-01-18T15:06:25.070654",
+    "end_date": "2027-01-17T15:06:25.070667",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "5": {
+    "user_id": 5139730738,
+    "amount": 100,
+    "start_date": "2026-01-18T15:17:45.182143",
+    "end_date": "2027-01-17T15:17:45.182165",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "6": {
+    "user_id": 1540414831,
+    "amount": 170,
+    "start_date": "2026-01-18T15:24:16.627346",
+    "end_date": "2027-01-17T15:24:16.627368",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "7": {
+    "user_id": 7614314201,
+    "amount": 50,
+    "start_date": "2026-01-18T15:27:09.516801",
+    "end_date": "2027-01-17T15:27:09.516824",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "8": {
+    "user_id": 7547840027,
+    "amount": 10,
+    "start_date": "2026-01-18T15:32:02.263975",
+    "end_date": "2027-01-17T15:32:02.264007",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "9": {
+    "user_id": 7614314201,
+    "amount": 200,
+    "start_date": "2026-01-18T16:15:05.350589",
+    "end_date": "2027-01-17T16:15:05.350609",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "10": {
+    "user_id": 6631352026,
+    "amount": 100,
+    "start_date": "2026-01-18T16:23:47.263486",
+    "end_date": "2027-01-17T16:23:47.263502",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "11": {
+    "user_id": 6631352026,
+    "amount": 100,
+    "start_date": "2026-01-18T16:32:03.997435",
+    "end_date": "2027-01-17T16:32:03.997453",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "12": {
+    "user_id": 6631352026,
+    "amount": 100,
+    "start_date": "2026-01-18T16:32:13.973858",
+    "end_date": "2027-01-17T16:32:13.973872",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "13": {
+    "user_id": 6631352026,
+    "amount": 100,
+    "start_date": "2026-01-18T16:32:23.453088",
+    "end_date": "2027-01-17T16:32:23.453102",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "14": {
+    "user_id": 6631352026,
+    "amount": 100,
+    "start_date": "2026-01-18T16:32:35.281254",
+    "end_date": "2027-01-17T16:32:35.281361",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "15": {
+    "user_id": 7614314201,
+    "amount": 50,
+    "start_date": "2026-01-18T16:45:40.157173",
+    "end_date": "2027-01-17T16:45:40.157187",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  },
+  "16": {
+    "user_id": 7220717176,
+    "amount": 40,
+    "start_date": "2026-01-18T17:00:27.477116",
+    "end_date": "2027-01-17T17:00:27.477134",
+    "weekly_interest": 10,
+    "is_active": true,
+    "total_interest": 0
+  }
+}
