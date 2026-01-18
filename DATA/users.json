@@ -12,7 +12,7 @@
   "7220717176": {
     "username": "Kon0Dio1Da",
     "first_name": "Kakyion",
-    "balance": 515,
+    "balance": 584,
     "total_earned": 296,
     "registered_date": "2026-01-18T16:12:49.009814",
     "last_message_time": "2026-01-18T17:28:14.063538",
@@ -22,22 +22,22 @@
   "6631352026": {
     "username": "Gyro146",
     "first_name": "DIO146",
-    "balance": 278,
-    "total_earned": 465,
+    "balance": 289,
+    "total_earned": 476,
     "registered_date": "2026-01-18T16:12:49.041141",
-    "last_message_time": "2026-01-18T17:34:55.505013",
+    "last_message_time": "2026-01-18T17:46:36.895258",
     "daily_bonus_date": "2026-01-18T16:16:46.491611",
-    "last_group_message_time": "2026-01-18T17:34:55.505013"
+    "last_group_message_time": "2026-01-18T17:46:36.895258"
   },
   "1540414831": {
     "username": "Meanil146",
     "first_name": "Меанил",
-    "balance": 47,
-    "total_earned": 47,
+    "balance": 55,
+    "total_earned": 55,
     "registered_date": "2026-01-18T16:12:49.086809",
-    "last_message_time": "2026-01-18T17:28:13.174079",
+    "last_message_time": "2026-01-18T17:47:16.746537",
     "daily_bonus_date": null,
-    "last_group_message_time": "2026-01-18T17:28:13.174079"
+    "last_group_message_time": "2026-01-18T17:47:16.746537"
   },
   "7730189310": {
     "username": "KSoAuCHjTV",
@@ -52,12 +52,12 @@
   "7614314201": {
     "username": "Bombcatgame",
     "first_name": "Bomb_Cat",
-    "balance": 132,
-    "total_earned": 414,
+    "balance": 151,
+    "total_earned": 421,
     "registered_date": "2026-01-18T16:12:50.951391",
-    "last_message_time": "2026-01-18T17:35:10.787949",
+    "last_message_time": "2026-01-18T17:44:42.376543",
     "daily_bonus_date": "2026-01-18T16:13:53.490800",
-    "last_group_message_time": "2026-01-18T17:35:10.787949"
+    "last_group_message_time": "2026-01-18T17:44:42.376543"
   },
   "6632616337": {
     "username": "Degenerat_orix",
@@ -92,12 +92,12 @@
   "1866408880": {
     "username": "DonilooXD",
     "first_name": "DonilooXD¹⁴⁶",
-    "balance": 5,
-    "total_earned": 5,
+    "balance": 6,
+    "total_earned": 6,
     "registered_date": "2026-01-18T16:41:10.719863",
-    "last_message_time": "2026-01-18T17:26:06.523665",
+    "last_message_time": "2026-01-18T17:43:48.873916",
     "daily_bonus_date": null,
-    "last_group_message_time": "2026-01-18T17:26:06.523665"
+    "last_group_message_time": "2026-01-18T17:43:48.873916"
   },
   "8029173214": {
     "username": null,
@@ -112,12 +112,12 @@
   "2046541301": {
     "username": "Spidwagon31",
     "first_name": "Спидвагон31",
-    "balance": 16,
-    "total_earned": 15,
+    "balance": 17,
+    "total_earned": 16,
     "registered_date": "2026-01-18T16:56:04.535992",
-    "last_message_time": "2026-01-18T17:22:35.725080",
+    "last_message_time": "2026-01-18T17:44:40.267525",
     "daily_bonus_date": null,
-    "last_group_message_time": "2026-01-18T17:22:35.725080"
+    "last_group_message_time": "2026-01-18T17:44:40.267525"
   },
   "8474557732": {
     "username": "SEDWC146",
@@ -162,11 +162,101 @@
   "8401380745": {
     "username": "krabib2",
     "first_name": "Гугл",
+    "balance": 3,
+    "total_earned": 3,
+    "registered_date": "2026-01-18T17:26:44.580320",
+    "last_message_time": "2026-01-18T17:44:05.554779",
+    "daily_bonus_date": null,
+    "last_group_message_time": "2026-01-18T17:44:05.554779"
+  },
+  "777000": {
+    "username": null,
+    "first_name": "Telegram",
     "balance": 2,
     "total_earned": 2,
-    "registered_date": "2026-01-18T17:26:44.580320",
-    "last_message_time": "2026-01-18T17:27:59.007061",
+    "registered_date": "2026-01-18T17:37:59.991475",
+    "last_message_time": "2026-01-18T17:41:53.961637",
     "daily_bonus_date": null,
-    "last_group_message_time": "2026-01-18T17:27:59.007061"
+    "last_group_message_time": "2026-01-18T17:41:53.961637"
+  },
+  "1707665954": {
+    "username": "F1X_FiX",
+    "first_name": "F†X",
+    "balance": 3,
+    "total_earned": 3,
+    "registered_date": "2026-01-18T17:38:17.664171",
+    "last_message_time": "2026-01-18T17:44:41.448195",
+    "daily_bonus_date": null,
+    "last_group_message_time": "2026-01-18T17:44:41.448195"
+  },
+  "7133649323": {
+    "username": "Ar4M8t_Ara",
+    "first_name": "Ar4M8t¹⁴⁶",
+    "balance": 7,
+    "total_earned": 6,
+    "registered_date": "2026-01-18T17:38:41.037465",
+    "last_message_time": "2026-01-18T17:45:34.714776",
+    "daily_bonus_date": null,
+    "last_group_message_time": "2026-01-18T17:45:34.714776"
+  },
+  "5222645301": {
+    "username": "KAPC979",
+    "first_name": "Виктор",
+    "balance": 1,
+    "total_earned": 1,
+    "registered_date": "2026-01-18T17:41:33.646100",
+    "last_message_time": "2026-01-18T17:41:33.639838",
+    "daily_bonus_date": null,
+    "last_group_message_time": "2026-01-18T17:41:33.639838"
+  },
+  "8080446940": {
+    "username": null,
+    "first_name": "︎ ︎ ᅠ ︎ ︎ ︎ ︎ ᅠ ︎ ︎ ︎ ︎ ᅠ",
+    "balance": 4,
+    "total_earned": 4,
+    "registered_date": "2026-01-18T17:43:25.056371",
+    "last_message_time": "2026-01-18T17:47:47.482225",
+    "daily_bonus_date": null,
+    "last_group_message_time": "2026-01-18T17:47:47.482225"
+  },
+  "7335191442": {
+    "username": null,
+    "first_name": "Иван",
+    "balance": 1,
+    "total_earned": 1,
+    "registered_date": "2026-01-18T17:45:36.761482",
+    "last_message_time": "2026-01-18T17:45:36.757749",
+    "daily_bonus_date": null,
+    "last_group_message_time": "2026-01-18T17:45:36.757749"
+  },
+  "5331923681": {
+    "username": "YougotCaged29",
+    "first_name": "Никита",
+    "balance": 2,
+    "total_earned": 2,
+    "registered_date": "2026-01-18T17:45:42.104141",
+    "last_message_time": "2026-01-18T17:46:26.209830",
+    "daily_bonus_date": null,
+    "last_group_message_time": "2026-01-18T17:46:26.209830"
+  },
+  "2062651221": {
+    "username": "Clear_ski7",
+    "first_name": "Wiktor",
+    "balance": 2,
+    "total_earned": 2,
+    "registered_date": "2026-01-18T17:47:06.757973",
+    "last_message_time": "2026-01-18T17:48:04.000096",
+    "daily_bonus_date": null,
+    "last_group_message_time": "2026-01-18T17:48:04.000096"
+  },
+  "5078993205": {
+    "username": "Teajoestara",
+    "first_name": "Чай",
+    "balance": 1,
+    "total_earned": 1,
+    "registered_date": "2026-01-18T17:48:02.072147",
+    "last_message_time": "2026-01-18T17:48:02.065429",
+    "daily_bonus_date": null,
+    "last_group_message_time": "2026-01-18T17:48:02.065429"
   }
 }

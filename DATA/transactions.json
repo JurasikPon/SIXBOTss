@@ -10378,5 +10378,779 @@
     "timestamp": "2026-01-18T17:35:35.019767",
     "choice": "random",
     "result": "tails"
+  },
+  "1183": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:35:37.967946",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1184": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:35:41.020050",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1185": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:35:44.084504",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1186": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:35:47.057136",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1187": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:35:50.137251",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1188": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:38:29.710216",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1189": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:38:32.714741",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1190": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:38:35.728148",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1191": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:38:40.270796",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1192": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:38:43.292958",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1193": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:38:46.337157",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1194": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:38:49.344813",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1195": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:38:52.364281",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1196": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:38:55.405882",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1197": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:38:58.392942",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1198": {
+    "from_user_id": 7614314201,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:39:39.662013",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1199": {
+    "from_user_id": 7614314201,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:39:40.394302",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1200": {
+    "from_user_id": 7614314201,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:39:41.398107",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1201": {
+    "from_user_id": 7614314201,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:39:42.808642",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1202": {
+    "from_user_id": 7133649323,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:39:43.931406",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1203": {
+    "from_user_id": 7614314201,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:39:49.734484",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1204": {
+    "from_user_id": 7614314201,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:39:50.897309",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1205": {
+    "from_user_id": 7614314201,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:39:52.187945",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1206": {
+    "from_user_id": 7614314201,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:39:53.055911",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1207": {
+    "from_user_id": 7614314201,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:39:57.884803",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1208": {
+    "from_user_id": 7133649323,
+    "to_user_id": -1,
+    "amount": -1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:39:58.302084",
+    "choice": "eagle",
+    "result": "tails"
+  },
+  "1209": {
+    "from_user_id": 7614314201,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:39:58.673027",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1210": {
+    "from_user_id": 7614314201,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:39:59.373282",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1211": {
+    "from_user_id": 7614314201,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:40:01.423369",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1212": {
+    "from_user_id": 7133649323,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:40:03.659260",
+    "choice": "eagle",
+    "result": "eagle"
+  },
+  "1213": {
+    "from_user_id": 7133649323,
+    "to_user_id": -1,
+    "amount": -1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:40:08.283261",
+    "choice": "tails",
+    "result": "eagle"
+  },
+  "1214": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:41:08.756187",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1215": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:41:13.337909",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1216": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:41:16.338852",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1217": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:41:19.331274",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1218": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:41:22.430764",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1219": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:41:25.457842",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1220": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:41:28.448839",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1221": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:41:31.414525",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1222": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:41:47.828893",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1223": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:41:50.810678",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1224": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:41:53.831736",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1225": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:41:56.904086",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1226": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:41:59.873705",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1227": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:42:02.996451",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1228": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:42:05.990528",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1229": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:42:09.016809",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1230": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:42:11.981875",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1231": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:42:14.975920",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1232": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:00.705244",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1233": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:03.674069",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1234": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:06.711046",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1235": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:09.791474",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1236": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:15.153879",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1237": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:18.206653",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1238": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:21.218421",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1239": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:32.138725",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1240": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:35.159260",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1241": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:38.231846",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1242": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:41.273768",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1243": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:44.232031",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1244": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:47.335171",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1245": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:50.292944",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1246": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:53.448612",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1247": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:56.330030",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1248": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:43:59.364564",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1249": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:44:02.376211",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1250": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:44:36.679386",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1251": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:44:39.800312",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1252": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:44:42.836521",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1253": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:12.263691",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1254": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:12.542485",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1255": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:12.947385",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1256": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:13.650725",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1257": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:14.166279",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1258": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:14.565997",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1259": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:15.301806",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1260": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:15.819527",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1261": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:16.450095",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1262": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:27.850823",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1263": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:30.855454",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1264": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:33.928883",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1265": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:36.908051",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1266": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:39.845313",
+    "choice": "random",
+    "result": "eagle"
+  },
+  "1267": {
+    "from_user_id": 7220717176,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:45:42.874730",
+    "choice": "random",
+    "result": "tails"
+  },
+  "1268": {
+    "from_user_id": 7133649323,
+    "to_user_id": 0,
+    "amount": 1,
+    "type": "coin_flip",
+    "timestamp": "2026-01-18T17:47:01.702454",
+    "choice": "random",
+    "result": "tails"
   }
 }
